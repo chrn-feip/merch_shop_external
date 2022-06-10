@@ -1,0 +1,180 @@
+{
+    "items": [
+        {
+            "external_id": "external_p11",
+            "category_external_id": "external_c2.2",
+            "name": "Харлин",
+            "price": 1550,
+            "description": "Доктор Харлин Квинзель – молодой психиатр, возможно, именно ей удастся разработать потенциальное лекарство от безумия, охватившего Готэм. Однако она еще должна доказать скептически настроенным жителям города, что ее теория верна. Для этого ей придется заняться изучением историй болезни самых опасных пациентов лечебницы Аркхем. Но чем больше времени Харлин проводит с этими безумными преступниками, тем чаще она общается с одним пациентом, из-за которого постепенно теряет связь с реальностью.",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Азбука"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 208
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Твёрдый"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "external_id": "external_p12",
+            "category_external_id": "external_c3.2",
+            "name": "One-Punch Man. Книга 10",
+            "price": 760,
+            "description": "Пока Ассоциация Героев активно обсуждает план захвата вражеского логова, охотник на героев проникает туда в одиночку с целью поквитаться с чудовищем Руки-Ножи и освободить Тарэо. Тем временем Сайтама и его друзья собираются отведать набэ в теплой компании. Они еще не знают, что скоро героев класса S в срочном порядке призовут в головной офис. И хотя доверие к Дженосу и Бэнгу подорвано неудачной схваткой с Гаро, репутация Короля по-прежнему безупречна. Именно его и хотят привлечь в штурмовой отряд Ассоциации в качестве основной боевой силы. Великая битва с чудовищами вот-вот начнется!",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Азбука"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 424
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Твёрдый"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "external_id": "external_p13",
+            "category_external_id": "external_c3.2",
+            "name": "One-Punch Man. Книга 9",
+            "price": 920,
+            "description": "Охотнику на героев нечего противопоставить невероятной силе мастеров боевых искусств Бэнга и Бомбы. Ассоциация Чудовищ решает спасти умирающего Гаро и посылает ему на выручку Сороконожку-Старейшину. Ее уровень угрозы – «Дракон», и даже прославленным братьям приходится несладко во время битвы. А тут еще и Дженос решительно вступает в бой...",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Азбука"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 400
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Твёрдый"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "external_id": "external_p14",
+            "category_external_id": "external_c3.3",
+            "name": "Волчица и пряности. Том 1 (ранобэ)",
+            "price": 900,
+            "description": "Странствующий торговец Лоуренс нашёл у себя в телеге спящую под снопом пшеницы девушку. Красавица с волчьими ушами и хвостом назвалась Холо, богиней урожая.",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Истари Комикс"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 359
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Мягкий"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "external_id": "external_p15",
+            "category_external_id": "external_c3.3",
+            "name": "Волчица и пряности. Том 3",
+            "price": 480,
+            "description": "Лоуренсу удаётся освободить Холо, и кажется, что им уже ничто не угрожает. Однако самое тяжёлое впереди! По лабиринту подземных тоннелей им приходится убегать от наёмников торгового дома Медио, надеясь, что следующий поворот не закончится тупиком.",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Истари Комикс"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 178
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Мягкий"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "external_id": "external_p16",
+            "category_external_id": "external_c3.3",
+            "name": "Волчица и пряности. Том 4 (ранобэ)",
+            "price": 920,
+            "description": "Лоуренсу удаётся освободить Холо, и кажется, что им уже ничто не угрожает. Однако самое тяжёлое впереди! По лабиринту подземных тоннелей им приходится убегать от наёмников торгового дома Медио, надеясь, что следующий поворот не закончится тупиком.",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Истари Комикс"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 372
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Мягкий"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "external_id": "external_p17",
+            "category_external_id": "external_c3.3",
+            "name": "Волчица и пряности. Том 14",
+            "price": 560,
+            "description": "Лоуренс, который уже почти стал хозяином магазина своей мечты, оказывается втянут в политический конфликт компании Дебау. Игра идёт нешуточная, и, похоже, им с Холо придётся поделиться книгой, которую они так долго искали. Но правильную ли сторону они заняли?..",
+            "attribute_values": [
+                {
+                    "attribute_external_id": "external_a1",
+                    "value": "Истари Комикс"
+                },
+                {
+                    "attribute_external_id": "external_a2",
+                    "value": 162
+                },
+                {
+                    "attribute_external_id": "external_a3",
+                    "value": "Мягкий"
+                },
+                {
+                    "attribute_external_id": "external_a4",
+                    "value": false
+                }
+            ]
+        }
+    ],
+    "update_token": "165489050"
+}

@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "external_id": "external_a1",
+            "name": "Издательство",
+            "type": "string"
+        },
+        {
+            "external_id": "external_a2",
+            "name": "Количество страниц",
+            "type": "numeric"
+        },
+        {
+            "external_id": "external_a3",
+            "name": "Переплёт",
+            "type": "string"
+        },
+        {
+            "external_id": "external_a4",
+            "name": "Возрастное ограничение",
+            "type": "boolean"
+        }
+    ]
+}

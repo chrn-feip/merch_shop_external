@@ -1,0 +1,59 @@
+{
+    "items": [
+        {
+            "external_id": "external_c1",
+            "parent_external_id": null,
+            "name": "Комиксы Marvel"
+        },
+        {
+            "external_id": "external_c2",
+            "parent_external_id": null,
+            "name": "Комиксы DC"
+        },
+        {
+            "external_id": "external_c3",
+            "parent_external_id": null,
+            "name": "Манга"
+        },
+        {
+            "external_id": "external_c1.1",
+            "parent_external_id": "external_c1",
+            "name": "Доктор Стрэндж"
+        },
+        {
+            "external_id": "external_c1.2",
+            "parent_external_id": "external_c1",
+            "name": "Железный человек"
+        },
+        {
+            "external_id": "external_c1.3",
+            "parent_external_id": "external_c1",
+            "name": "Мстители"
+        },
+        {
+            "external_id": "external_c2.1",
+            "parent_external_id": "external_c2",
+            "name": "Бэтмен"
+        },
+        {
+            "external_id": "external_c2.2",
+            "parent_external_id": "external_c2",
+            "name": "Харли Квинн"
+        },
+        {
+            "external_id": "external_c3.1",
+            "parent_external_id": "external_c3",
+            "name": "Sailor Moon"
+        },
+        {
+            "external_id": "external_c3.2",
+            "parent_external_id": "external_c3",
+            "name": "One-Punch Man"
+        },
+        {
+            "external_id": "external_c3.3",
+            "parent_external_id": "external_c3",
+            "name": "Волчица и пряности"
+        }
+    ]
+}
